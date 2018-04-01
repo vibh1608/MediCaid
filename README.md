@@ -1,5 +1,7 @@
 # MediCaid
 
+Project is about to finish , i will add the APK file ASAP .
+
 Introduction
 
 PURPOSE OF THE PROJECT
