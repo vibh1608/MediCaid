@@ -1,6 +1,8 @@
 # MediCaid
 
-Project is about to finish , i will add the APK file ASAP .
+Project is about to finish , 
+Latest APK file has been uploaded ,
+Screenshots of the output has been added .
 
 Introduction
 
