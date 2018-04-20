@@ -41,7 +41,7 @@ MediCaid has the following features:
 2.It has login screen/signup screen for both doctor & patient.
 3.All the data of patients,doctors & medicines are getting stored on FCM-Firebase Cloud
 Messaging.
-4.There are different number of screens for patients starting from the list of medicines they have
-to take & alarm screen following by their profile screen
+4.There are different number of screens for patients starting from the list of doctors , list of medicines they have
+to take & alarm screen following by their profile screen , appointment screen with doctors and also list of nearly hospitals navigated through Google Maps .
 5.Also there are different screen for doctors-list of patients,their profile,screen to add medicine
-for a particular patient,etc.
+for a particular patient, appointments with patients etc.
